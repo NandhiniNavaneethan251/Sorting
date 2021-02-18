@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: #D8BFD8;
+}
+
+header {
+    text-align: center;
+}
+
+#text {
+    text-align: center;
+}
+
+#button {
+    margin-left: 47.5%;
+}
+
+#container {
+    margin-left: 43.75%;
+    width: 170px;
+    height: 200px;
+    border: 1px solid;
+}
+
+#error {
+    margin-left: 43.75%;
+    color: red;
+}
